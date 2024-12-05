@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1e8ffb2f21a909b46bb2883ddb8a7b21
+guid: 736fc3750c9269246840723d7d964b41
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6550432720726904964
-    second: Progress Bar Red_0
+      213: -618417882439782102
+    second: LoginBackGround_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +70,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -83,7 +83,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -96,7 +96,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -113,27 +113,29 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Progress Bar Red_0
+      name: LoginBackGround_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 64
+        width: 1920
+        height: 1076
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f2afb65203815a0800000000000000
-      internalID: -6550432720726904964
+      spriteID: a217d626630fa67f0800000000000000
+      internalID: -618417882439782102
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 
@@ -143,8 +145,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
     nameFileIdTable:
-      Progress Bar Red_0: -6550432720726904964
+      LoginBackGround_0: -618417882439782102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
